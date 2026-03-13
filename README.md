@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm fredgena74
 
-<!--
-**fredgena74/fredgena74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building a real, consistent open-source footprint over the next **30–60 days**.
 
-Here are some ideas to get you started:
+## Focus
+- Docs improvements (clarity, structure, broken links)
+- Translations (EN ⇄ ZH)
+- Examples / quick-start snippets
+- Small tooling & automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## OSS Growth Log
+- https://github.com/fredgena74/oss-growth-log
+
+## How I contribute
+- Small, reviewable PRs
+- Clear “what/why/how”
+- Avoid noisy or trivial changes
